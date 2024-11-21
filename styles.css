@@ -1,0 +1,31 @@
+.label {
+    -fx-font-size: 16px;
+    -fx-text-fill: #FF5733; /* Correct hex color */
+    -fx-padding: 10;
+}
+
+.text-field {
+    -fx-font-size: 14px;
+    -fx-prompt-text-fill: gray;
+    -fx-border-color: #FF5733; /* Valid hex color */
+    -fx-border-radius: 5;
+    -fx-padding: 5;
+}
+
+.button {
+    -fx-font-size: 14px;
+    -fx-background-color: #28a745;  /* Green color */
+    -fx-text-fill: white;
+    -fx-border-radius: 5;
+    -fx-padding: 5 10;
+}
+
+.vbox {
+    -fx-spacing: 10;
+    -fx-alignment: center;
+    -fx-padding: 20;
+    -fx-background-color: #f5f5f5;
+    -fx-border-color: #ddd;
+    -fx-border-width: 1;
+    -fx-border-radius: 5;
+}

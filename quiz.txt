@@ -1,0 +1,108 @@
+What is the capital of Spain?|Madrid
+What is the largest mammal on Earth?|Blue whale
+What is the symbol for potassium on the periodic table?|K
+Who wrote "To Kill a Mockingbird"?|Harper Lee
+What is the smallest country in the world?|Vatican City
+What is 9 x 8?|72
+What is the currency used in Japan?|Yen
+What is the capital of Russia?|Moscow
+What is the hardest natural substance on Earth?|Diamond
+What organ do humans use to breathe?|Lungs
+What is the capital of India?|New Delhi
+Who is the Greek god of the sea?|Poseidon
+What is the capital of China?|Beijing
+How many bones are in the adult human body?|206int score
+What is the speed of light?|299,792,458 m/s
+What is 25% of 200?|50
+What is the largest island in the world?|Greenland
+What is the capital of Egypt?|Cairo
+Who is the famous scientist with the equation E=mc^2?|Albert Einstein
+What color are emeralds?|Green
+What is the largest country in South America?|Brazil
+What is the largest lake in the world?|Caspian Sea
+What language do they speak in Brazil?|Portuguese
+What is the atomic number of carbon?|6
+What is 15 x 4?|60
+Who invented the light bulb?|Thomas Edison
+What is the largest type of bear?|Polar bear
+What is the main ingredient in guacamole?|Avocado
+What is the capital of South Korea?|Seoul
+What is the smallest bone in the human body?|Stapes
+Who wrote "1984"?|George Orwell
+What is the capital of Mexico?|Mexico City
+What is the pH level of pure water?|7
+What is the main language spoken in Argentina?|Spanish
+How many legs does a spider have?|8
+What is the capital of Thailand?|Bangkok
+What is the largest bird?|Ostrich
+What color is chlorophyll?|Green
+Who painted "The Last Supper"?|Leonardo da Vinci
+What is the symbol for iron on the periodic table?|Fe
+What is the powerhouse of the cell?|Mitochondria
+What is the capital of Norway?|Oslo
+How many grams are in a kilogram?|1000
+What year did World War II end?|1945
+What is the boiling point of water in Fahrenheit?|212
+What is the smallest unit of life?|Cell
+Who was the first President of the United States?|George Washington
+What is the chemical symbol for helium?|He
+What is the capital of Sweden?|Stockholm
+What planet has a prominent ring system?|Saturn
+What animal is known for its black and white stripes?|Zebra
+What is the currency of Switzerland?|Swiss Franc
+How many days are in a leap year?|366
+What is the capital of the Netherlands?|Amsterdam
+What is 12 x 12?|144
+What is the capital of New Zealand?|Wellington
+What is the tallest animal on Earth?|Giraffe
+What is the largest internal organ in the human body?|Liver
+What is the capital of Saudi Arabia?|Riyadh
+What substance makes up the majority of Earth's atmosphere?|Nitrogen
+What is the main ingredient in chocolate?|Cocoa
+Who invented the telephone?|Alexander Graham Bell
+What is the primary language spoken in Canada?|English and French
+What country has the most volcanoes?|Indonesia
+What is the primary component of the sun?|Hydrogen
+What is 3 cubed?|27
+What planet is known as the Morning Star?|Venus
+What is the longest bone in the human body?|Femur
+What is the primary ingredient in hummus?|Chickpeas
+What organ produces insulin?|Pancreas
+What is the capital of Turkey?|Ankara
+Who painted the Sistine Chapel ceiling?|Michelangelo
+What gas do humans exhale?|Carbon dioxide
+What is the capital of Ireland?|Dublin
+How many planets are in the Milky Way galaxy?|Billions
+What is the chemical symbol for silver?|Ag
+What is the capital of Kenya?|Nairobi
+What metal is liquid at room temperature?|Mercury
+What color is the gemstone ruby?|Red
+What is the capital of Greece?|Athens
+What is the main ingredient in a Caesar salad?|Romaine lettuce
+What is the sum of angles in a triangle?|180 degrees
+Who is the famous nurse from the Crimean War?|Florence Nightingale
+What is the largest fish?|Whale shark
+What is the Roman numeral for 50?|L
+What is the most spoken language in the world?|English
+What country gifted the Statue of Liberty to the USA?|France
+What is the capital of Malaysia?|Kuala Lumpur
+What is 0 divided by any number?|0
+What is the capital of Finland?|Helsinki
+What organ is affected by hepatitis?|Liver
+What planet is known as the Earth’s twin?|Venus
+What is the chemical formula for methane?|CH4
+What are animals that eat meat called?|Carnivores
+What is the smallest ocean?|Arctic
+What is the chemical formula for carbon dioxide?|CO2
+What is the longest river in the United States?|Missouri River
+What does "www" stand for in a website address?|World Wide Web
+What is the capital of Portugal?|Lisbon
+What is the most abundant gas in Earth’s atmosphere?|Nitrogen
+What color is the gemstone sapphire?|Blue
+What is the highest waterfall in the world?|Angel Falls
+What planet is the coldest in the solar system?|Uranus
+Who wrote "Moby Dick"?|Herman Melville
+What is the primary gas found in Mars’ atmosphere?|Carbon dioxide
+What is the capital of Scotland?|Edinburgh
+What kind of tree produces acorns?|Oak
+What is 7 x 7?|49
